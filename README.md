@@ -1,0 +1,2 @@
+# AIML_Course_Probability_Primer
+Statistics and Probability Fundamentals
